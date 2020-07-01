@@ -1,6 +1,4 @@
-# travel-template
-
-### Travelling website template
+## Travelling website template
 
 Check out more free templates with code here -
 ```
